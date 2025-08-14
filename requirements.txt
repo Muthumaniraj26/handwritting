@@ -1,0 +1,21 @@
+# Core OCR and Computer Vision
+easyocr>=1.7.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Machine Learning and Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Optional: Transformers for TrOCR (if you want to use it)
+# transformers>=4.30.0
+
+# GUI
+tkinter  # Usually comes with Python
+
+# Additional utilities
+keyboard>=0.13.5
